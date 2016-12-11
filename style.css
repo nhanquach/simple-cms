@@ -1,0 +1,120 @@
+nav{
+background-color: #009688;
+}
+
+footer.page-footer{
+  background-color: #009688;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+main {
+    flex: 1 0 auto;
+  }
+
+#title{
+  font-size: 22px;
+}
+
+.allArticle{
+  float: right;  
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  padding: 10px;
+}
+
+.roundimg{
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  padding: 10px;
+  border-radius: 100px;
+}
+
+.questionmark{
+  background-color: #eee;
+  padding: 2px;
+}
+
+.atitle{
+  font-size: 3rem;
+  text-align: justify;
+}
+
+.datePub{
+  display: inline-block;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  clear: both;
+  word-wrap: normal;
+  font-size: 1.5rem;
+  max-width: 17rem;
+  min-width: 4rem;
+  border-radius: 100px;
+  background-color: teal;
+  color: white;
+}
+
+/* Status and error boxes */
+
+.statusMessage, .errorMessage {
+  font-size: .8em;
+  padding: .5em;
+  margin: 2em 0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; 
+  -moz-box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
+  -box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
+}
+
+.statusMessage {
+  background-color: #2b2;
+  border: 1px solid #080;
+  color: #fff;
+}
+
+.errorMessage {
+  background-color: #f22;
+  border: 1px solid #800;
+  color: #fff;
+}
+
+.fixed-action-btn{
+  margin-bottom: 2.5rem; 
+}
+
+.card{
+  max-width: 100%;
+  width: 100vw;
+  padding: 20px;
+  align-self: center;
+}
+
+iframe{
+  width: 100%;
+  height: 480px;
+}
+
+.b2t{
+  margin: auto;
+  margin-top: 2rem;
+  border-radius: 4rem;
+}
+.b2t2{
+  margin: auto;
+  margin-top: 1rem;
+  border-radius: 4rem;
+}
+.b2t::hover{
+  padding-bottom: 10px;
+}
