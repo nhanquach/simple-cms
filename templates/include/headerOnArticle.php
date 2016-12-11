@@ -35,7 +35,7 @@
         $servername = "localhost";
         $username = "root";
         $password = "";
-        $dbname = "cms";
+        $dbname = "mycms";
 
         //Create Connection.
         $conn = new mysqli($servername, $username, $password, $dbname);

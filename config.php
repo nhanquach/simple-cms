@@ -1,7 +1,7 @@
 <?php
 ini_set( "display_errors", true );
 date_default_timezone_set( "Asia/Ho_Chi_Minh" );  // http://www.php.net/manual/en/timezones.php
-define( "DB_DSN", "mysql:host=localhost;dbname=mycms" );
+define( "DB_DSN", "mysql:host=localhost; dbname=mycms" );
 define( "DB_USERNAME", "root" );
 define( "DB_PASSWORD", "" );
 define( "CLASS_PATH", "classes" );
