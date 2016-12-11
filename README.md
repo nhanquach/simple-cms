@@ -10,5 +10,5 @@ Default configs :<br/>
 - admin account: admin - password.
 - mysql database name: cms
 
-<i>See more in <b>config.php<b> </i>
+<i>See more in <b>config.php<b> </i> <br/>
 <i>You are free to use this CMS however you want.</i>
