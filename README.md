@@ -9,6 +9,7 @@ Default configs :<br/>
 - password: 
 - admin account: admin - password.
 - mysql database name: cms
+- admin login page: /admin.php
 
 <i>See more in <b>config.php<b> </i> <br/>
 <i>You are free to use this CMS however you want.</i>
