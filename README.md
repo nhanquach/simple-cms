@@ -8,5 +8,6 @@ Default configs :<br/>
 - mysql username: root
 - password: 
 - admin account: admin - password.
+- mysql database name: cms
 
 <i>You are free to use this CMS however you want.</i>
